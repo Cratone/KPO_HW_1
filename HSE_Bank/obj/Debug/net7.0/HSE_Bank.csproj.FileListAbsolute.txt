@@ -1,0 +1,5 @@
+C:\Users\danil\RiderProjects\KPO_HW1\HSE_Bank\obj\Debug\net7.0\HSE_Bank.csproj.AssemblyReference.cache
+C:\Users\danil\RiderProjects\KPO_HW1\HSE_Bank\obj\Debug\net7.0\HSE_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\RiderProjects\KPO_HW1\HSE_Bank\obj\Debug\net7.0\HSE_Bank.AssemblyInfoInputs.cache
+C:\Users\danil\RiderProjects\KPO_HW1\HSE_Bank\obj\Debug\net7.0\HSE_Bank.AssemblyInfo.cs
+C:\Users\danil\RiderProjects\KPO_HW1\HSE_Bank\obj\Debug\net7.0\HSE_Bank.csproj.CoreCompileInputs.cache
